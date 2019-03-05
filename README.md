@@ -198,5 +198,7 @@ press `x` to remove it from favorite list
     })
 ```
  [bootstrap-Search bar](https://getbootstrap.com/docs/4.1/components/forms/#inline-forms)
+ |
  [bootstrap-Cards](https://getbootstrap.com/docs/4.1/components/card/)
+ |
  [bootstrap-Modal component](https://getbootstrap.com/docs/4.1/components/modal/)
